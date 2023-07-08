@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "29869415216",
+    "project_id": "rapid-cure-pharmacy",
+    "storage_bucket": "rapid-cure-pharmacy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29869415216:android:beebd1f499970b643b86f5",
+        "android_client_info": {
+          "package_name": "com.azamansari.rapid_cure_pharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29869415216-bni7l0e1s6mhvift78pgnhlsg59b3gr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTBr90Dg4Ab93amf0Kl7fwF1Wz4Ocp8GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29869415216-bni7l0e1s6mhvift78pgnhlsg59b3gr6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "29869415216-hdq04s19nb1jr86296q8tcft48e3g0od.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.azamansari.rapidCurePharmacy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
